@@ -1,0 +1,209 @@
+@media screen and (max-width: 656px) {
+    body {
+        overflow: hidden;
+    }
+
+    footer {
+        margin-top: 370px;
+        text-align: center;
+        color: rgb(254, 254, 254);
+    }
+
+    .basic {
+        /* margin-top: 200px;
+        border: solid;
+        height: 15rem;
+        width: 30rem;
+        border-bottom-left-radius: 300px;
+        border-bottom-right-radius: 300px;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+        background-color: red; */
+
+        /* height: 280px;
+        width: 500px; */
+        height: 18em;
+        width: 37.5rem;
+        background: linear-gradient(90deg, rgb(92, 24, 0), rgb(205, 75, 0));
+        border-radius: 0 0 350px 350px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 50px;
+        z-index: -1;
+        /* overflow: hidden; */
+    }
+
+    .ani {
+        font-size: 15vw;
+        margin-top: 10px;
+    }
+
+    #pop {
+        margin-top: -40px;
+        font-size: 3vw;
+    }
+}
+
+@media screen and (max-width: 624px) {
+    .basic {
+        height: 13.9em;
+        width: 27.2rem;
+        background: linear-gradient(90deg, rgb(92, 24, 0), rgb(205, 75, 0));
+        border-radius: 0 0 350px 350px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 100px;
+        /* overflow: hidden; */
+    }
+
+    .inner {
+        width: 435.7px;
+        height: 90px;
+        background: linear-gradient(90deg, rgb(55, 15, 0), rgb(126, 46, 0));
+        border-radius: 50%;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 180px;
+    }
+
+    footer {
+        font-size: 12px;
+        margin-top: 420px;
+    }
+
+}
+
+@media screen and (max-width: 468px) {
+    .basic {
+        height: 13em;
+        width: 23.1rem;
+        background: linear-gradient(90deg, rgb(92, 24, 0), rgb(205, 75, 0));
+        border-radius: 0 0 350px 350px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 90px;
+        /* overflow: hidden; */
+    }
+
+    .inner {
+        width: 370px;
+        height: 90px;
+        background: linear-gradient(90deg, rgb(55, 15, 0), rgb(126, 46, 0));
+        border-radius: 50%;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 160px;
+    }
+
+    footer {
+        font-size: 13px;
+        margin-top: 410px;
+    }
+
+    .ani {
+        font-size: 18vw;
+        margin-top: 10px;
+    }
+
+    #pop {
+        margin-top: -30px;
+        font-size: 4vw;
+    }
+
+}
+
+@media screen and (max-width: 394px) {
+    html {
+        overflow: hidden;
+        background-repeat: no-repeat;
+    }
+
+    .basic {
+        height: 11em;
+        width: 18rem;
+        background: linear-gradient(90deg, rgb(92, 24, 0), rgb(205, 75, 0));
+        border-radius: 0 0 350px 350px;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 80px;
+        /* overflow: hidden; */
+    }
+
+    .inner {
+        width: 289px;
+        height: 90px;
+        background: linear-gradient(90deg, rgb(55, 15, 0), rgb(126, 46, 0));
+        border-radius: 50%;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        bottom: 130px;
+    }
+
+    .red {
+        width: 140px;
+        height: 140px;
+        background: orangered;
+        box-shadow: 0px 0px 10px 5px orangered;
+    }
+
+    .orange {
+        left: 10px;
+        width: 120px;
+        height: 120px;
+        background: orange;
+        box-shadow: 0px 0px 12px 6px orange;
+    }
+
+    .gold {
+        left: 18px;
+        width: 100px;
+        height: 100px;
+        background: gold;
+        box-shadow: 0px 0px 9px 4px gold;
+    }
+
+    .white {
+        left: 17px;
+        width: 80px;
+        height: 80px;
+        background: lightyellow;
+        box-shadow: 0px 0px 9px 4px lightyellow;
+    }
+
+
+    footer {
+        font-size: 13px;
+        margin-top: 310px;
+    }
+
+    .ani {
+        font-size: 18vw;
+        margin-top: 10px;
+    }
+
+    #pop {
+        /*         margin-top: -20px;
+      margin-left: 50px; */
+        position: absolute;
+        top: 220px;
+        font-size: 4vw;
+    }
+
+    h3 {
+        margin-top: 100px;
+    }
+}
